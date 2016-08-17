@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Points to the php executable.
+    "php.validate.executablePath": "C:\\wamp64\\bin\\php\\php5.6.19\\php.exe"
+}
